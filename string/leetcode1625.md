@@ -57,3 +57,41 @@ public:
 };
 ```
 
+而出题人想要的做法其实应该是bfs+set优化, 这个更直观也更容易操作和想到
+
+```c++
+class Solution {
+public:
+    string findLexSmallestString(string s, int a, int b) {
+        int n = s.size();
+
+        string res = s;
+        set<string> se;
+        queue<string> q;
+        q.push(s);
+        se.insert(s);
+        while (q.size()) {
+            string cur = q.front();
+            q.pop();
+            string tmp = cur;
+            for (int i = 1; i < n; i += 2) {
+                cur[i] += a;
+                if (cur[i] > '9') cur[i] -= 10;
+            }
+            if (se.find(cur) == se.end()) {
+                q.push(cur);
+                se.insert(cur);
+                res = min(res, cur);
+            }
+            cur = tmp.substr(n - b) + tmp.substr(0, n - b);
+            if (se.find(cur) == se.end()) {
+                q.push(cur);
+                se.insert(cur);
+                res = min(res, cur);
+            }
+        }
+        return res;
+    }
+};
+```
+
