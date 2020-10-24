@@ -1,8 +1,8 @@
 [硬区间贪心](#硬区间贪心)
 
-[化数字为index 贪心](#化数字为index 贪心)
+[化数字为index 贪心](#化数字为index(贪心))
 
-[化数字为index dp](#化数字为index dp)
+[化数字为index dp](#化数字为index(dp))
 
 - 之所以这么硬，第一部分还要新建个数组来转化原数组，是因为我的思路是用当下有交集的最大的end来更新区间的end，ans ++，而如果与当下数字相同，也可能会造成ans被更新，现在看来其实用一个idx记录下就行了。。
 
@@ -61,7 +61,7 @@ public:
 };
 ```
 
-## <span id="化数字为index 贪心">化数字为index 贪心</span>
+## <span id="化数字为index(贪心)">化数字为index 贪心</span>
 
 ```
 class Solution {
@@ -89,7 +89,7 @@ public:
 
 
 
-## <span id="化数字为index dp">化数字为index dp</span>
+## <span id="化数字为index(dp)">化数字为index dp</span>
 
 ```c++
 class Solution {
