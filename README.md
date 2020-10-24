@@ -13,12 +13,14 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 ---
 
-# 机器学习
+# Machine learning
 
 ### 感知机
 
 - 损失函数
 - 对偶形式
+
+# Algorithm
 
 ## 数据结构
 
