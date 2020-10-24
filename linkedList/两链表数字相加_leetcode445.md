@@ -1,10 +1,10 @@
-[vector做法](# vector做法)
+[ vector做法](#head1)
 
-[stack做法](# stack做法)
+[ stack做法(有个反转拼接的trick)](#head2)
 
 其实用stack更直观，代码行数也更少
 
-## vector做法
+## <span id="head1"> vector做法</span>
 
 ```c++
 /**
@@ -61,7 +61,7 @@ public:
 };
 ```
 
-## stack做法(有个反转拼接的trick)
+## <span id="head2"> stack做法(有个反转拼接的trick)</span>
 
 res = c + res
 
@@ -125,7 +125,7 @@ public:
 
     }   
 };
-​```
+```
 
 ## <span id="head2"> stack做法(有个反转拼接的trick)</span>
 
@@ -133,7 +133,7 @@ res = c + res
 
 这样新的就做头
 
-​```c++
+```c++
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -171,8 +171,9 @@ public:
         return ret;
     }   
 };
-​```
+```
 
 
 ```
 
+```

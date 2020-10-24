@@ -13,4 +13,6 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 ## 区间问题
 
+### 贪心
+
 1. leetcode 1024 [视频拼接](https://leetcode-cn.com/problems/video-stitching/)
