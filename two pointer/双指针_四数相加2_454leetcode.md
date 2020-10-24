@@ -1,8 +1,6 @@
-[硬bfs](# 硬bfs)
-
-[硬两数和](# 硬两数和)
-
-## 硬bfs
+- [ 硬bfs](#head1)
+- [ 硬两数和](#head2)
+## <span id="head1"> 硬bfs</span>
 
 受到上一题的影响，一开始我竟然用出了这种做法....万物皆可bfs?
 
@@ -80,7 +78,7 @@ public:
 };
 ```
 
-## 硬两数和
+## <span id="head2"> 硬两数和</span>
 
 ```c++
 class Solution {
@@ -111,4 +109,3 @@ public:
     }
 };
 ```
-
