@@ -28,6 +28,11 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 1. 两数组和：leetcode 1073 [负二进制数相加](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)
 
+## 字符串
+
+1. implement：leetcode 1625  [执行操作后字典序最小的字符串](https://leetcode-cn.com/problems/lexicographically-smallest-string-after-applying-operations/)
+2. 加减乘除操作：leetcode 306 [累加数](https://leetcode-cn.com/problems/additive-number/)
+
 ### 树
 
 1. 层次遍历：leetcode 623 [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
