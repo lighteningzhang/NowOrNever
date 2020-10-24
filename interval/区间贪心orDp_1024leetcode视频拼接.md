@@ -61,7 +61,7 @@ public:
 };
 ```
 
-## 化数字为index 贪心
+## <span id="化数字为index 贪心">化数字为index 贪心</span>
 
 ```
 class Solution {
@@ -89,7 +89,7 @@ public:
 
 
 
-## 化数字为index dp
+## <span id="化数字为index dp">化数字为index dp</span>
 
 ```c++
 class Solution {
