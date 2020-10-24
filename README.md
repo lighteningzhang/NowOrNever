@@ -13,32 +13,26 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 ---
 
-
-
-## 机器学习
+# 机器学习
 
 ### 感知机
 
 - 损失函数
 - 对偶形式
 
-## 数组
+# 数据结构
 
-### 两数组和
+### 数组
 
-1. leetcode 1073 [负二进制数相加](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)
+1. 两数组和：leetcode 1073 [负二进制数相加](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)
 
-## 树
+### 树
 
-### 层次遍历
-
-1. leetcode 623 [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
-
-## 区间问题
+1. 层次遍历：leetcode 623 [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
 
 ### 贪心
 
-1. leetcode 1024 [视频拼接](https://leetcode-cn.com/problems/video-stitching/)
+1. 区间问题：leetcode 1024 [视频拼接](https://leetcode-cn.com/problems/video-stitching/)
 
 
 
