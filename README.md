@@ -37,13 +37,20 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 1. 层次遍历：leetcode 623 [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
 
+### 图
+
+1. 最短路：floyd([acw 344](https://www.acwing.com/activity/content/problem/content/1509/1/) 观光之旅, [acw 1125](https://www.acwing.com/activity/content/problem/content/1507/1/) 牛的旅行)
+
 ## 算法思想
 
 ### 贪心
 
 1. 区间问题：leetcode 1024 [视频拼接](https://leetcode-cn.com/problems/video-stitching/)
 
-   
+
+### 动态规划
+
+1. 最长上升子序列：leetcode 845 [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)(~~其实不是~~)
 
 
 
