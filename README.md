@@ -3,6 +3,8 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 ----
 
+## 补理论或证明
+
 - [ ] Data Structure: heap sort
 - [ ] Data Structure: binary indexed tree
 - [ ] Data Structure: segment tree
@@ -10,6 +12,13 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 - [ ] Algorithm: shortest path
 - [ ] Algorithm: two pointer
 - [ ] proof: shortest path(dij, bellman, floyd)
+
+---
+
+## 补题
+
+- [ ] acw 345 (bellman ford 和 状态dp做法)
+- [ ] acw 1145 (不用二分直接用单调性的做法)
 
 ---
 
@@ -39,7 +48,8 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 ### 图
 
-1. 最短路：floyd([acw 344](https://www.acwing.com/activity/content/problem/content/1509/1/) 观光之旅, [acw 1125](https://www.acwing.com/activity/content/problem/content/1507/1/) 牛的旅行)
+1. 最短路：floyd([acw 344](https://www.acwing.com/activity/content/problem/content/1509/1/) 观光之旅, [acw 1125](https://www.acwing.com/activity/content/problem/content/1507/1/) 牛的旅行, [acw 345](https://www.acwing.com/activity/content/problem/content/1510/1/) 牛站(bellman ford和fast pow的思想)
+2. 最小生成树：kruskal([acw1146](https://www.acwing.com/problem/content/1148/) 新的开始(虚拟源点), [acw1145](https://www.acwing.com/problem/content/1147/) 北极通讯网络(~~二分~~), [acw 346 ](https://www.acwing.com/problem/content/348/)扩充最小生成树)
 
 ## 算法思想
 
