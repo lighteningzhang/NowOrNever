@@ -37,6 +37,7 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 ### 数组
 
 1. 两数组和：leetcode 1073 [负二进制数相加](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)
+2. 排序：[比大小](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
 ## 字符串
 
@@ -50,7 +51,7 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 ### 图
 
 1. 最短路：floyd ([acw 344](https://www.acwing.com/activity/content/problem/content/1509/1/) 观光之旅, [acw 1125](https://www.acwing.com/activity/content/problem/content/1507/1/) 牛的旅行, [acw 345](https://www.acwing.com/activity/content/problem/content/1510/1/) 牛站(bellman ford和fast pow的思想)
-2. 最小生成树：kruskal ([acw1146](https://www.acwing.com/problem/content/1148/) 新的开始(虚拟源点), [acw1145](https://www.acwing.com/problem/content/1147/) 北极通讯网络(~~二分~~), [acw 346 ](https://www.acwing.com/problem/content/348/)扩充最小生成树, [acw 1148](https://www.acwing.com/activity/content/problem/content/1529/1/))
+2. 最小生成树：kruskal ([acw1146](https://www.acwing.com/problem/content/1148/) 新的开始(虚拟源点), [acw1145](https://www.acwing.com/problem/content/1147/) 北极通讯网络(~~二分~~), [acw 346 ](https://www.acwing.com/problem/content/348/)扩充最小生成树, [acw 1148](https://www.acwing.com/activity/content/problem/content/1529/1/) 次小生成树)
 
 ## 算法思想
 
