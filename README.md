@@ -47,11 +47,14 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 ### 树
 
 1. 层次遍历：leetcode 623 [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
+2. 前中后序遍历：[lc 144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) 前序, [lc 145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) 后序 
 
 ### 图
 
-1. 最短路：floyd ([acw 344](https://www.acwing.com/activity/content/problem/content/1509/1/) 观光之旅, [acw 1125](https://www.acwing.com/activity/content/problem/content/1507/1/) 牛的旅行, [acw 345](https://www.acwing.com/activity/content/problem/content/1510/1/) 牛站(bellman ford和fast pow的思想)
-2. 最小生成树：kruskal ([acw1146](https://www.acwing.com/problem/content/1148/) 新的开始(虚拟源点), [acw1145](https://www.acwing.com/problem/content/1147/) 北极通讯网络(~~二分~~), [acw 346 ](https://www.acwing.com/problem/content/348/)扩充最小生成树, [acw 1148](https://www.acwing.com/activity/content/problem/content/1529/1/) 次小生成树)
+1. 最短路：**floyd** ([acw 344](https://www.acwing.com/activity/content/problem/content/1509/1/) 观光之旅, [acw 1125](https://www.acwing.com/activity/content/problem/content/1507/1/) 牛的旅行, [acw 345](https://www.acwing.com/activity/content/problem/content/1510/1/) 牛站(bellman ford和fast pow的思想), **dijkstra** ([lc 1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) 差值最短路)
+2. 最小生成树：**kruskal **([acw1146](https://www.acwing.com/problem/content/1148/) 新的开始(虚拟源点), [acw1145](https://www.acwing.com/problem/content/1147/) 北极通讯网络(~~二分~~), [acw 346 ](https://www.acwing.com/problem/content/348/)扩充最小生成树, [acw 1148](https://www.acwing.com/activity/content/problem/content/1529/1/) 次小生成树, [lc 1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) 建边合并
+3. 负环：[acw 904](## <span id="head2">bellman ford</span>) spfa求负环,  [acw 361](https://www.acwing.com/activity/content/problem/content/1531/1/) 01分数规划
+4. 差分约束：
 
 ## 算法思想
 
@@ -63,6 +66,14 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 ### 动态规划
 
 1. 最长上升子序列：leetcode 845 [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)(~~其实不是~~)
+
+### 二分
+
+1. [lc 410](https://leetcode-cn.com/problems/split-array-largest-sum/) 分割连续数组, [lc 875](https://leetcode-cn.com/problems/koko-eating-bananas/), [lc 1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/), [lc 1551](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/) 差值二分
+
+### BFS
+
+1. [lc994](https://leetcode-cn.com/problems/rotting-oranges/) 层次遍历, [lc 1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) bfs +二分
 
 
 
