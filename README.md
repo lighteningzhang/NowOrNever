@@ -1,4 +1,5 @@
 # NowOrNever
+
 Whether to take a leap of faith, or become an old man, filled with regret, waiting to die alone
 
 ----
@@ -53,8 +54,8 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 1. 最短路：**floyd** ([acw 344](https://www.acwing.com/activity/content/problem/content/1509/1/) 观光之旅, [acw 1125](https://www.acwing.com/activity/content/problem/content/1507/1/) 牛的旅行, [acw 345](https://www.acwing.com/activity/content/problem/content/1510/1/) 牛站(bellman ford和fast pow的思想), **dijkstra** ([lc 1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) 差值最短路)
 2. 最小生成树：**kruskal **([acw1146](https://www.acwing.com/problem/content/1148/) 新的开始(虚拟源点), [acw1145](https://www.acwing.com/problem/content/1147/) 北极通讯网络(~~二分~~), [acw 346 ](https://www.acwing.com/problem/content/348/)扩充最小生成树, [acw 1148](https://www.acwing.com/activity/content/problem/content/1529/1/) 次小生成树, [lc 1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) 建边合并
-3. 负环：[acw 904](## <span id="head2">bellman ford</span>) spfa求负环,  [acw 361](https://www.acwing.com/activity/content/problem/content/1531/1/) 01分数规划
-4. 差分约束：
+3. 负环：acw 904 (bellman ford, spfa),  [acw 361](https://www.acwing.com/activity/content/problem/content/1531/1/) 01分数规划, [acw 1165](https://www.acwing.com/activity/content/problem/content/1532/1/) 字符串01分数规划
+4. 差分约束：[acw 1169](https://www.acwing.com/activity/content/problem/content/1533/1/) 超级源点, 
 
 ## 算法思想
 
