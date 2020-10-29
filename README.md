@@ -49,13 +49,14 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 1. 层次遍历：leetcode 623 [在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
 2. 前中后序遍历：[lc 144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) 前序, [lc 145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) 后序 
+3. 树上倍增：[lc 1483](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node/)找第k个祖先, acw 1174 找公共祖先, acw 1171 距离
 
 ### 图
 
 1. 最短路：**floyd** ([acw 344](https://www.acwing.com/activity/content/problem/content/1509/1/) 观光之旅, [acw 1125](https://www.acwing.com/activity/content/problem/content/1507/1/) 牛的旅行, [acw 345](https://www.acwing.com/activity/content/problem/content/1510/1/) 牛站(bellman ford和fast pow的思想), **dijkstra** ([lc 1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) 差值最短路)
 2. 最小生成树：**kruskal**([acw1146](https://www.acwing.com/problem/content/1148/) 新的开始(虚拟源点), [acw1145](https://www.acwing.com/problem/content/1147/) 北极通讯网络(~~二分~~), [acw 346 ](https://www.acwing.com/problem/content/348/)扩充最小生成树, [acw 1148](https://www.acwing.com/activity/content/problem/content/1529/1/) 次小生成树, [lc 1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) 建边合并
 3. 负环：acw 904 (bellman ford, spfa),  [acw 361](https://www.acwing.com/activity/content/problem/content/1531/1/) 01分数规划, [acw 1165](https://www.acwing.com/activity/content/problem/content/1532/1/) 字符串01分数规划
-4. 差分约束：[acw 1169](https://www.acwing.com/activity/content/problem/content/1533/1/) 超级源点, [acw 362](https://www.acwing.com/activity/content/problem/content/1534/1/) 区间转差分约束, 
+4. 差分约束：[acw 1169](https://www.acwing.com/activity/content/problem/content/1533/1/) 超级源点, [acw 362](https://www.acwing.com/activity/content/problem/content/1534/1/) 区间转差分约束,
 
 ## 算法思想
 
