@@ -21,6 +21,8 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 - [ ] acw 345 (bellman ford 和 状态dp做法)
 - [ ] acw 1145 (不用二分直接用单调性的做法)
 - [ ] acw 341 dfs的做法
+- [ ] acw 1171 **tarjan做法** 
+- [ ] lc 787 **最短路和dp做法**
 
 ---
 
@@ -57,6 +59,11 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 2. 最小生成树：**kruskal**([acw1146](https://www.acwing.com/problem/content/1148/) 新的开始(虚拟源点), [acw1145](https://www.acwing.com/problem/content/1147/) 北极通讯网络(~~二分~~), [acw 346 ](https://www.acwing.com/problem/content/348/)扩充最小生成树, [acw 1148](https://www.acwing.com/activity/content/problem/content/1529/1/) 次小生成树, [lc 1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) 建边合并
 3. 负环：acw 904 (bellman ford, spfa),  [acw 361](https://www.acwing.com/activity/content/problem/content/1531/1/) 01分数规划, [acw 1165](https://www.acwing.com/activity/content/problem/content/1532/1/) 字符串01分数规划
 4. 差分约束：[acw 1169](https://www.acwing.com/activity/content/problem/content/1533/1/) 超级源点, [acw 362](https://www.acwing.com/activity/content/problem/content/1534/1/) 区间转差分约束,
+5. 有向图的连通性：tarjan acw 1174, tarjan acw 367 构建强连通分量
+
+栈
+
+1. 单调栈：lc 84, lc 85
 
 ## 算法思想
 
@@ -68,6 +75,7 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 ### 动态规划
 
 1. 最长上升子序列：leetcode 845 [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)(~~其实不是~~), 最长等差数列 [lc 1027](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/)
+2. 统计图形个数：lc 1504 长方形个数, lc 1277 正方形个数
 
 ### 二分
 
