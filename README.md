@@ -23,6 +23,8 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 - [ ] acw 341 dfs的做法
 - [ ] acw 1171 **tarjan做法** 
 - [ ] lc 787 **最短路和dp做法**
+- [ ] 双周赛自定义排序(pq, map)
+- [ ] 补双周赛第四题
 
 ---
 
@@ -61,9 +63,13 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 4. 差分约束：[acw 1169](https://www.acwing.com/activity/content/problem/content/1533/1/) 超级源点, [acw 362](https://www.acwing.com/activity/content/problem/content/1534/1/) 区间转差分约束,
 5. 有向图的连通性：tarjan acw 1174, tarjan acw 367 构建强连通分量
 
-栈
+### 栈
 
 1. 单调栈：lc 84, lc 85
+
+### 堆
+
+1. 堆排替换思想: lc 381
 
 ## 算法思想
 
@@ -76,6 +82,8 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 1. 最长上升子序列：leetcode 845 [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)(~~其实不是~~), 最长等差数列 [lc 1027](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/)
 2. 统计图形个数：lc 1504 长方形个数, lc 1277 正方形个数
+3. 纯状态转移：lc 978，1458 两数组最大点积
+4. 字符串dp：
 
 ### 二分
 
