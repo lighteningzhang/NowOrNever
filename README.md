@@ -48,6 +48,7 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 1. implement：leetcode 1625  [执行操作后字典序最小的字符串](https://leetcode-cn.com/problems/lexicographically-smallest-string-after-applying-operations/)
 2. 加减乘除操作：leetcode 306 [累加数](https://leetcode-cn.com/problems/additive-number/)
+3. 回文串：lc 131, lc 132
 
 ### 树
 
@@ -62,6 +63,10 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 3. 负环：acw 904 (bellman ford, spfa),  [acw 361](https://www.acwing.com/activity/content/problem/content/1531/1/) 01分数规划, [acw 1165](https://www.acwing.com/activity/content/problem/content/1532/1/) 字符串01分数规划
 4. 差分约束：[acw 1169](https://www.acwing.com/activity/content/problem/content/1533/1/) 超级源点, [acw 362](https://www.acwing.com/activity/content/problem/content/1534/1/) 区间转差分约束,
 5. 有向图的连通性：tarjan acw 1174, tarjan acw 367 构建强连通分量
+
+### 树状数组
+
+1. acw241 同时利用树状数组和数组进行查值
 
 ### 栈
 
