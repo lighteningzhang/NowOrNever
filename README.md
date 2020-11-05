@@ -24,7 +24,7 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 - [ ] acw 1171 **tarjan做法** 
 - [ ] lc 787 **最短路和dp做法**
 - [ ] 双周赛自定义排序(pq, map)
-- [ ] 补双周赛第四题
+- [x] 补双周赛第四题
 
 ---
 
@@ -80,14 +80,14 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 
 ### 贪心
 
-1. 区间问题：leetcode 1024 [视频拼接](https://leetcode-cn.com/problems/video-stitching/)
+1. 区间问题：leetcode 1024 [视频拼接](https://leetcode-cn.com/problems/video-stitching/), lc 57, lc [1642](https://leetcode-cn.com/problems/furthest-building-you-can-reach/)
 
 
 ### 动态规划
 
 1. 最长上升子序列：leetcode 845 [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)(~~其实不是~~), 最长等差数列 [lc 1027](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/)
 2. 统计图形个数：lc 1504 长方形个数, lc 1277 正方形个数
-3. 纯状态转移：lc 978，1458 两数组最大点积
+3. 纯状态转移：lc 978，1458 两数组最大点积，lc 1639(38双周赛最后一题)
 4. 字符串dp：
 
 ### 二分
