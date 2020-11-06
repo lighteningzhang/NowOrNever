@@ -23,8 +23,9 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 - [ ] acw 341 dfs的做法
 - [ ] acw 1171 **tarjan做法** 
 - [ ] lc 787 **最短路和dp做法**
-- [ ] 双周赛自定义排序(pq, map)
+- [x] 双周赛自定义排序(pq, map)
 - [x] 补双周赛第四题
+- [ ] lc 138 插next指针的做法
 
 ---
 
@@ -44,11 +45,17 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 1. 两数组和：leetcode 1073 [负二进制数相加](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/)
 2. 排序：[比大小](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 
+### 链表
+
+1. 链表访问：lc 138 克隆链表(含随机指针)
+2. 环形链表：lc 142 找到位置
+
 ## 字符串
 
 1. implement：leetcode 1625  [执行操作后字典序最小的字符串](https://leetcode-cn.com/problems/lexicographically-smallest-string-after-applying-operations/)
 2. 加减乘除操作：leetcode 306 [累加数](https://leetcode-cn.com/problems/additive-number/)
 3. 回文串：lc 131, lc 132
+4. 子字符串：lc 140单词拆分
 
 ### 树
 
@@ -63,6 +70,10 @@ Whether to take a leap of faith, or become an old man, filled with regret, waiti
 3. 负环：acw 904 (bellman ford, spfa),  [acw 361](https://www.acwing.com/activity/content/problem/content/1531/1/) 01分数规划, [acw 1165](https://www.acwing.com/activity/content/problem/content/1532/1/) 字符串01分数规划
 4. 差分约束：[acw 1169](https://www.acwing.com/activity/content/problem/content/1533/1/) 超级源点, [acw 362](https://www.acwing.com/activity/content/problem/content/1534/1/) 区间转差分约束,
 5. 有向图的连通性：tarjan acw 1174, tarjan acw 367 构建强连通分量
+
+### 并查集
+
+1. 并查集 + implementation: lc 1632
 
 ### 树状数组
 
