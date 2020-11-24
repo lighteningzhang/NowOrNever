@@ -1,5 +1,5 @@
 查看端口占用情况
-netstat -apn | grep 1
+netstat -apn | grep 1000
 
 查看可以打开文件描述符的上限
 cat /proc/sys/fs/file-max
@@ -7,3 +7,7 @@ cat /proc/sys/fs/file-max
 sudo vi /etc/security/limits.conf
 soft nofile 65536
 hard nofile 100000
+
+nc IP PORT
+如：
+nc 127.1 1000
